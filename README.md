@@ -20,6 +20,11 @@
 우리 팀의 업무가 아니다보니, 배정받은 업무만 해서 추가적인 기능을 넣지 못한 것이 아쉬웠다. <br>
 별점이 있으니 별점 필터를 제공하는 것도 좋았을 것 같은데, 다음에는 배정받은 업무를 끝내고 추가적인 제안도 해봐야겠다.
 
+## 메뉴트리
+![메뉴트리](https://user-images.githubusercontent.com/114047532/210494314-873a1bff-3c59-46b1-97c1-c75b59f5b3ed.png)
+
+
+## 주요 기능 설명
 ![슬라이드1](https://user-images.githubusercontent.com/114047532/209598342-a83c53d1-aa8a-474a-a1c5-eae82171f579.PNG)
 ![슬라이드2](https://user-images.githubusercontent.com/114047532/209598347-ccf0af57-a8fb-45d9-ba66-29622beb9408.PNG)
 ![슬라이드3](https://user-images.githubusercontent.com/114047532/209598350-e3e5c286-60b6-4e4f-87df-e77741c3de71.PNG)
